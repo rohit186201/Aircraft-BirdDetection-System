@@ -24,11 +24,11 @@ Now, our solution works on the basis of an open library of computer vision and a
 
 Comparing the effectiveness of 2 algorithms on real practical testing, we will come to one solution. Below, you can see a theoretical comparison:
 
-[](https://github.com/rohit186201/Aircraft-BirdDetection-System/blob/main/output.gif)
+[![Comparison-Haar-LBP][link]](https://medium.com/mindboard/a-deep-learning-solution-to-detect-and-mask-human-faces-in-videos-ad1451e89350)
 
 **Our task is to create a reliable and fast computer vision program capable of detecting birds in the frame with an accuracy of more than 95% in real time (without delays).**
 
-[![Birds-Test-Screen][birds-test]](#)
+[](https://github.com/rohit186201/Aircraft-BirdDetection-System/blob/main/output.gif)
 
 
 ## Getting Started
