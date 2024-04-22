@@ -24,7 +24,7 @@ Now, our solution works on the basis of an open library of computer vision and a
 
 Comparing the effectiveness of 2 algorithms on real practical testing, we will come to one solution. Below, you can see a theoretical comparison:
 
-[![Comparison-Haar-LBP][link]](https://github.com/rohit186201/Aircraft-BirdDetection-System/blob/main/output.gif)
+[](https://github.com/rohit186201/Aircraft-BirdDetection-System/blob/main/output.gif)
 
 **Our task is to create a reliable and fast computer vision program capable of detecting birds in the frame with an accuracy of more than 95% in real time (without delays).**
 
