@@ -1,39 +1,4 @@
-# OmenFlight 
-<div align="center">
-   <img src="https://sun9-west.userapi.com/sun9-13/s/v1/ig2/AQK9TKQ2ldo2BUNW-Sp_ve1xWk-dAHddHVV4msr1e0tqBDPKSjt5L4MzP-l8sv-PUXDvYNEG9gfNB3YJZXWrX8YX.jpg?size=900x900&quality=95&type=album" alt="Logo" width="120" height="120">
-   <h3 align="center">OmenFlight AI - the future of birds needs to be solved today!</h3>
-</div>
-OmenFlight AI is an open-source computer vision program for recognizing birds on video. Our artificial intelligence program will help cameras quickly and accurately recognize birds within the radius of dangerous zones, so that bird scaring devices can prevent cases of birds interacting with deadly zones in time. 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary><b>Table of Contents</b></summary>
-  <ol>
-    <li>
-      <a href="#description">Description</a>
-      <ul>
-        <li><a href="#main-problem">Main Problem</a></li>
-        <li><a href="#our-goal">Our Goal</a></li>
-        <li><a href="#our-solution">Our Solution</a></li>
-      </ul>
-    </li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#installing">Installing</a></li>
-        <li><a href="#executing-program">Executing Program</a></li>
-      </ul>
-    </li>
-    <li><a href="#help">Help</a></li>
-    <li><a href="#authors">Authors</a></li>
-    <li><a href="#version-history">Version History</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
+# Aircraft-BirdDetection-System 
 ## Description
 
 ### Main Problem
