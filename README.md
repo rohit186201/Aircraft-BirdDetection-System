@@ -24,28 +24,12 @@ Now, our solution works on the basis of an open library of computer vision and a
 
 Comparing the effectiveness of 2 algorithms on real practical testing, we will come to one solution. Below, you can see a theoretical comparison:
 
-[![Comparison-Haar-LBP][link]](https://medium.com/mindboard/a-deep-learning-solution-to-detect-and-mask-human-faces-in-videos-ad1451e89350)
+[![Comparison-Haar-LBP][link]](https://github.com/rohit186201/Aircraft-BirdDetection-System/blob/main/output.gif)
 
 **Our task is to create a reliable and fast computer vision program capable of detecting birds in the frame with an accuracy of more than 95% in real time (without delays).**
 
 [![Birds-Test-Screen][birds-test]](#)
 
-## Roadmap
-
-- [x] Creating a test model of bird recognition using Haar cascades.
-- [x] Development of a real-time bird detection program using a trained model and the capabilities of the open-cv library.
-- [x] Research and documentation:
-    - [x] Documentation.
-    - [x] GitHub Page.
-    - [x] Presentation.
-    - [x] Copyright certificate.
-    - [x] Other important documents.
-- [ ] Train the algorithm to 92%+ accuracy of bird recognition based on thousands of positive and negative data.
-- [ ] Optimize the bird recognition program to reduce delays and improve real-time performance.
-- [ ] Development of a test model of an automated bird-repelling device based on Raspberry PI.
-- [ ] Improving technology, expanding capabilities, increasing accuracy, speed and reliability:
-    - [ ] Solving the problem of birds colliding with power lines.
-    - [ ] Solving the problem of birds colliding with wind farms.
 
 ## Getting Started
 
@@ -80,16 +64,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/something...`)
 5. Open a Pull Request
 
-## Authors
-
-* Arman Zhalgasbayev - 
-[@grembim](https://www.instagram.com/grembim)
-
-* Aldabegenov Makhambet - 
-[@elliotdewitt169](https://www.instagram.com/elliotdewitt169)
-
-* Aidarova Anel - 
-[@dlighti](https://www.instagram.com/dlighti)
 
 ## Version History
 
@@ -99,13 +73,9 @@ Don't forget to give the project a star! Thanks again!
 * 0.1
     * Initial Release
 
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details
 
 ## Acknowledgments
 
-* [Awesome-ReadMe](https://github.com/matiassingers/awesome-readme)
 * [Birds-Detection-OpenCV](https://github.com/yenusu/OpenCV-Birds-Detection-Algorithm)
 * [HaarCascades-For-Birds-Detection](https://github.com/Souravjyoti/Bird_detection)
 * [Haar-Cascades](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
