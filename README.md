@@ -1,6 +1,8 @@
 # Aircraft-BirdDetection-System 
 ## Description
 
+![Output](https://github.com/rohit186201/Aircraft-BirdDetection-System/blob/main/output.gif)
+
 ### Main Problem
 
 Birds are an extremely important part of the global ecosystem, the mass death of birds due to human activity can lead to catastrophic results.
@@ -27,9 +29,6 @@ Comparing the effectiveness of 2 algorithms on real practical testing, we will c
 [![Comparison-Haar-LBP][link]](https://medium.com/mindboard/a-deep-learning-solution-to-detect-and-mask-human-faces-in-videos-ad1451e89350)
 
 **Our task is to create a reliable and fast computer vision program capable of detecting birds in the frame with an accuracy of more than 95% in real time (without delays).**
-
-![Output](https://github.com/rohit186201/Aircraft-BirdDetection-System/blob/main/output.gif)
-
 
 ## Getting Started
 
